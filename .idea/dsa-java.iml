@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Day03_prefix" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day04_SlidingWindow" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day05_SlidingWindow02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Day06_TwoPointer" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
